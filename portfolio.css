@@ -26,3 +26,19 @@ li a:hover {
 .active {
     background-color: #4CAF50;
 }
+
+nav li {
+    float: left;
+}
+
+section {
+ display: flex;
+}
+
+aside {
+ flex: 1
+}
+
+article {
+ flex: 4
+}
