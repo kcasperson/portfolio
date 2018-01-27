@@ -4,7 +4,7 @@ body {
         Times, serif;
   color: purple;
   background-color: #d8da3d }
-ul.navbar {
+nav {
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -15,12 +15,12 @@ ul.navbar {
 h1 {
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
-ul.navbar li {
+nav li {
   background: white;
   margin: 0.5em 0;
   padding: 0.3em;
   border-right: 1em solid black }
-ul.navbar a {
+nav a {
   text-decoration: none }
 a:link {
   color: blue }
