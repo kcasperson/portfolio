@@ -4,7 +4,7 @@ body {
         Times, serif;
   color: purple;
   background-color: #d8da3d }
-nav {
+nav ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
